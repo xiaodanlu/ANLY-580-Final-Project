@@ -1,0 +1,6 @@
+/** 
+ * Hide dashboard panel title. 
+ */
+.chart-wrapper > .chart-title{
+  display: none;
+}

@@ -1,0 +1,6 @@
+/** 
+ * Hide dashboard title area. 
+ */
+ .navbar-inverse .navbar-brand {
+   display: none;
+ }
